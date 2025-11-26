@@ -60,20 +60,22 @@ del Q_sarsas ; del V_sarsas ; del Q_track_sarsas
 <img width="512" height="727" alt="image" src="https://github.com/user-attachments/assets/0c1b8181-a7ee-47e9-ac45-e1908760fbdb" />
 
 ## FVMC:
-<img width="595" height="605" alt="image" src="https://github.com/user-attachments/assets/86e3d4b7-0d66-46ad-86de-066c622eb9e3" />
+<img width="697" height="733" alt="image" src="https://github.com/user-attachments/assets/1e77ac6c-087f-4211-8276-236442b10725" />
+
 <img width="553" height="75" alt="image" src="https://github.com/user-attachments/assets/a398cdb0-2961-49f8-9078-91a9020c7dbd" />
 
 ## SARSA:
-<img width="757" height="603" alt="image" src="https://github.com/user-attachments/assets/f6debd2a-b189-401d-9732-20bc8370e055" />
+<img width="759" height="730" alt="image" src="https://github.com/user-attachments/assets/19a8549a-dd55-4159-8866-56785f9e8c58" />
 
 <img width="618" height="72" alt="image" src="https://github.com/user-attachments/assets/0608ce1f-dd46-4be0-adae-d6fe6ad6a2f3" />
 
 
 ## FVMC:
-<img width="1477" height="482" alt="image" src="https://github.com/user-attachments/assets/e12a1de7-0e27-4199-a07e-25f439387bb6" />
+<img width="756" height="288" alt="image" src="https://github.com/user-attachments/assets/b4458aec-dc89-4817-97b1-7a33fe70efda" />
 
 ## SARSA:
-<img width="1422" height="482" alt="image" src="https://github.com/user-attachments/assets/a5195de8-7f3e-4837-a097-3b8fd1a4ee67" />
+<img width="768" height="302" alt="image" src="https://github.com/user-attachments/assets/dc305ee2-ff93-427a-8227-5ba741efe059" />
+
 
 ## RESULT:
 
